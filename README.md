@@ -10,4 +10,6 @@ gain score for 100,250,500 and 1000 points when clear 1,2,3 and 4 lines at the s
 also get 1 point when move down the block faster by keyboard S button
   
 When game over:  
-press keyboard button R to restart the game
+press keyboard button R to restart the game  
+  
+reference tutorial:<https://www.youtube.com/watch?v=nF_crEtmpBo&list=PLwR6ZGPvjVOT6G0n2XmsrDraZsIH8ndpN>
