@@ -1,7 +1,8 @@
 # pygame_tetris
 Simple tetris game write with python
 --------------------------------------------------------
-![image](https://github.com/AaronLin20010601/pygame_tetris/blob/main/tetris_demo.PNG)  
+Demo video google drive link :<https://drive.google.com/file/d/1dOw_iwVlsbec302TeecU8RMvA4jW41FO/view?usp=drive_link>  
+  
 Using keyboard A,S and D to control the block move left,down and right,press SPACE to rotate the block  
 There are seven types of different blocks,which are L,J,I,O,S,T and Z block  
   
